@@ -6,6 +6,12 @@
     grid-template-columns: 250px minmax(0, 1fr);
 }
 
+body {
+    background-image: url("images/nullGardenBackG1.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
 header, nav, main, footer {
     border: black 2px solid;
 }
