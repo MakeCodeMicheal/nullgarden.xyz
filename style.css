@@ -41,3 +41,30 @@ footer {
     grid-row: 3 / 4;
     grid-column: 1 / 3;
 }
+
+/* Hide scrollbar across browsers */
+html {
+    scrollbar-width: none; /* Firefox */
+}
+
+html::-webkit-scrollbar {
+    display: none; /* Chrome, Opera, Safari */
+}
+
+/* Custom text selection */
+::selection {
+    background: #8799AF;
+    color: #FFFFFF;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #343840;
+    transition: color 0.2s ease;
+}
+
+/* Link hover */
+a:hover {
+    color: #8799AF;
+}
