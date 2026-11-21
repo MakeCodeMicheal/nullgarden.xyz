@@ -11,6 +11,7 @@
         "footer footer footer";
     background-color: #E9EAEC;
     padding: 20px;
+    border: 3px solid #B8BBC2;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
 
 header, #content, #left, main, #right, footer {
     background-color: #F8F8F8;
-    border: 2px solid #B8BBC2;
+    border: 3px solid #B8BBC2;
 }
 
 header {
