@@ -1,7 +1,6 @@
 # nullgarden.xyz
 My own little website (in dev). Hopefully this will grow into something like the stuff on neocities !! 
 
-
 BACKUP CSS
 
 .container  {
@@ -74,3 +73,57 @@ a {
 a:hover {
     color: #8799AF;
 }
+
+HTML BACKUP
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="Images/nullGardenTabIcon1.gif">
+    <title>𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 N U L L  G A R D E N 𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <!-- Hatsune Miku - https://www.cursors-4u.com/cursor/hatsune-miku -->
+    <link rel="stylesheet" href="https://cdn.cursors-4u.net/cursors/animated/hatsune-miku-81a2620d-32.css">
+    <!-- End www.Cursors-4U.com Code -->
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+
+            <h1>N U L L  G A R D E N</h1>
+
+        </header>
+
+        <nav>
+
+            <p>Welcome :D</p>
+
+        </nav>
+
+        <main>
+
+            <p>This website is the beginning of my website development project.</p>
+
+        </main>
+
+        <footer>
+
+            <p>I claim this corner of the internet.</p>
+
+        </footer>
+
+    </div>
+
+</body>
+
+</html>
