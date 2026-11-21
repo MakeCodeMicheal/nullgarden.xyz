@@ -4,16 +4,20 @@
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 250px minmax(0, 1fr);
+    background-color: #E9EAEC;
 }
 
 body {
-    background-image: url("images/nullGardenBackG1.jpg");
-    background-repeat: repeat;
+    background-image: url("images/nullGardenBackG1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     background-attachment: fixed;
 }
 
 header, nav, main, footer {
-    border: black 2px solid;
+    background-color: #F8F8F8;
+    border: 2px solid #B8BBC2;
 }
 
 header {
