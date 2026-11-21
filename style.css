@@ -28,6 +28,7 @@ header, #content, #left, main, #right, footer {
 
 header {
     grid-area: header;
+    text-align: center;
 }
 
 #content {
